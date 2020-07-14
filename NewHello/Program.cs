@@ -8,6 +8,7 @@ namespace NewHello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("What up!");
+            Console.WriteLine("User1 made this change");
         }
     }
 }
